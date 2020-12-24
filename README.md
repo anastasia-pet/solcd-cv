@@ -1,1 +1,1 @@
-https://github.com/anastasia-pet/solcd-cv.git
+https://anastasia-pet.github.io/solcd-cv/
