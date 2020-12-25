@@ -5,10 +5,8 @@ _e-mail address:_ **nastya.petrova1996@gmail.com**
 ## Summury:  
 I'm a teacher of English and Italian at the moment. I enjoy teaching and I do it quite well (as my students say). I’m passionate about meeting new people and communicating.
 
-=====
 I love my job, but working as a teacher doesn’t give me many opportunities such as career and personal growth, ability to use all my knowledge and skills and ability to fulfill my working potential. I’d like to try myself in a new activity that will provide me with these opportunities.
 
-=====
 I've chosen testing because I have got some skills and personal qualities that are needed for the job. **They are:**  
 * communicative skills   
 * high level of English  
