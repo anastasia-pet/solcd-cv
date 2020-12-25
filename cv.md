@@ -1,4 +1,4 @@
-#Curriculum Vitae  
+<!-- Curriculum Vitae -->  
 **Anastasia Petrova**    
 _Phone number:_**+375295736903**    
 _e-mail address:_ **nastya.petrova1996@gmail.com**    
