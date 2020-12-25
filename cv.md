@@ -43,7 +43,7 @@ I've chosen testing because I have got some skills and personal qualities that a
 4. Alan Cooper «The Inmates Are Running the Asylum»  
 
 ## Education:    
-1. Online-course by Vitali Shulha «Computer Science Basics» <https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124>  
+1. [Online-course by Vitali Shulha «Computer Science Basics»](https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124)  
 2. [Online-course by Svyatoslav Kulikov](https://learn.epam.com/detailsPage?id=a4a1b6e2-4e51-455d-ac5b-e60f23d4ed69)  
 
 ## English practice/Education:  
