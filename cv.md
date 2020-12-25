@@ -14,7 +14,7 @@ I've chosen testing because I have got some skills and personal qualities that a
 * and responsibility.  
 
 ## Skills:  
-####**_ language skills:_**
+#### **_ language skills:_**
 > English – Advanced level (C1)  
 > Italian – Upper-Intermediate level (B2)  
 
@@ -36,7 +36,7 @@ I've chosen testing because I have got some skills and personal qualities that a
 *	perfectionism 
 
 ## Experience:
-####**_Literature, materials:_**
+#### **_Literature, materials:_**
 1.Roman Savin «Testing dot com»  
 2.Svyatoslav Kulikov «Software Testing Introduction»   
 3.International Software Institute «Software Testing Revealed»  
