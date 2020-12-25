@@ -14,7 +14,7 @@ I've chosen testing because I have got some skills and personal qualities that a
 * and responsibility.  
 
 ## Skills:  
-#### **language skills:**
+#### **1.language skills:**
 > English – Advanced level (C1)  
 > Italian – Upper-Intermediate level (B2)  
 
