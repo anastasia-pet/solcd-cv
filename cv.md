@@ -18,14 +18,14 @@ I've chosen testing because I have got some skills and personal qualities that a
 > English – Advanced level (C1)  
 > Italian – Upper-Intermediate level (B2)  
 
-2.	knowledge of MS Office software package 
-3.	analytical skills
-4. business communication skills
-5.	interpreting and translating 
-6.	teaching skills
-7.	working with large amounts of data
-8.	multicultural communication
-9.	business correspondence 
+1.	knowledge of MS Office software package 
+2.	analytical skills
+3. business communication skills
+4.	interpreting and translating 
+5.	teaching skills
+6.	working with large amounts of data
+7.	multicultural communication
+8.	business correspondence 
 
 ## Personal Qualities:
 *	sociability, teamwork
@@ -54,8 +54,8 @@ _Specialization:_ Communicative Management
  
 ## Hobbies:  
 * sports:  
- + jogging  
- + cycling  
- + swimming
+  + jogging  
+  + cycling  
+  + swimming
 * playing the guitar 
 * reading books on psychology and self-development 
