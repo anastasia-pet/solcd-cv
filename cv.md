@@ -1,7 +1,7 @@
-#Curriculum Vitae
-**Anastasia Petrova**  
-_Phone number:_**+375295736903**  
-_e-mail address:_ **nastya.petrova1996@gmail.com**  
+#Curriculum Vitae  
+**Anastasia Petrova**    
+_Phone number:_**+375295736903**    
+_e-mail address:_ **nastya.petrova1996@gmail.com**    
 ##Summury:
 I'm a teacher of English and Italian at the moment. I enjoy teaching and I do it quite well (as my students say). I’m passionate about meeting new people and communicating.
 ***
